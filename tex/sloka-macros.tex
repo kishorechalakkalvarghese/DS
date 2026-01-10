@@ -1,0 +1,53 @@
+% tex/sloka-macros.tex
+% tex/sloka-macros.tex
+
+% Environment for centered sloka (no paragraph indent)
+\newenvironment{sloka}[1]
+{%
+  \thispagestyle{plain}%
+  \noindent
+  \vspace*{0.20\textheight}%
+  \begin{center}
+    {\Large #1\par}%
+    \vspace{1.5em}%
+    {\sanskritfont
+  }% <- close \sanskritfont group here
+}% <- end of begin-part
+{%
+  \end{center}%
+  \vspace*{\fill}%
+}
+
+% sanskrit + IAST on one line, meaning on next line
+\newcommand{\wordline}[3]{%
+  {\sanskritfont \noindent #1}\quad {\iastfont \noindent #2}\par
+  \noindent #3\par\medskip
+}
+
+
+% inline Sanskrit macro
+\newcommand{\skt}[1]{{\sanskritfont #1}}
+
+% Meaning / transliteration / Italian rendering (flush left, no indent)
+\newcommand{\wordmeaning}[1]{%
+  \clearpage    % <--- transliteration starts on a new page
+  \par\vspace{1em}%
+  %\noindent\textbf{Analisi delle parole (sanskrit):}\par
+  \noindent #1\par\medskip}
+  
+\newcommand{\anvaya}[1]{%
+  \par\vspace{1em}%
+  %\noindent\textbf{Anvaya (sanskrit):}\par
+  \noindent {\sanskritfont #1}\par\medskip}
+
+\newcommand{\translit}[1]{%
+  \par\vspace{1em}%
+  %\noindent\textbf{Traslitterazione:}\par
+  \noindent #1\par\medskip}
+
+\newcommand{\itmean}[1]{%
+  \par\vspace{1em}%
+  %\noindent\textbf{Miglior resa italiana:}\par
+  \noindent #1\par\medskip}
+
+\newcommand{\middlesize}{\fontsize{11pt}{13.5pt}\selectfont}

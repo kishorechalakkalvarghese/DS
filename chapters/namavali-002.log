@@ -1,0 +1,1663 @@
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.1.1)  1 JAN 2026 17:54
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./namavali-002.tex
+(namavali-002.tex
+LaTeX2e <2025-11-01>
+L3 programming layer <2025-12-24>
+! Undefined control sequence.
+l.2 \chapter
+            *{Śrī Lalitā Sahasranāma — Śloka 2}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 \chapter*
+             {Śrī Lalitā Sahasranāma — Śloka 2}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no * in font nullfont!
+Missing character: There is no Ś in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no ī in font nullfont!
+Missing character: There is no L in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ā in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no ā in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no — in font nullfont!
+Missing character: There is no Ś in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no 2 in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 2--3
+[]
+ []
+
+
+! LaTeX Error: Environment sloka undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 \begin{sloka}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Undefined control sequence.
+l.5 {\sanskritfont
+                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 \begin{tabular}
+                   {c}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 6.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 6.
+Missing character: There is no उ in font nullfont!
+Missing character: There is no द in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no य in font nullfont!
+Missing character: There is no द in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no भ in font nullfont!
+Missing character: There is no ा in font nullfont!
+Missing character: There is no न in font nullfont!
+Missing character: There is no ु in font nullfont!
+Missing character: There is no स in font nullfont!
+Missing character: There is no ह in font nullfont!
+Missing character: There is no स in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no र in font nullfont!
+Missing character: There is no ा in font nullfont!
+Missing character: There is no भ in font nullfont!
+Missing character: There is no ा in font nullfont!
+Missing character: There is no च in font nullfont!
+Missing character: There is no त in font nullfont!
+Missing character: There is no ु in font nullfont!
+Missing character: There is no र in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no ब in font nullfont!
+Missing character: There is no ा in font nullfont!
+Missing character: There is no ह in font nullfont!
+Missing character: There is no ु in font nullfont!
+Missing character: There is no स in font nullfont!
+Missing character: There is no म in font nullfont!
+Missing character: There is no न in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no व in font nullfont!
+Missing character: There is no ि in font nullfont!
+Missing character: There is no त in font nullfont!
+Missing character: There is no ा in font nullfont!
+Missing character: There is no । in font nullfont!
+Missing character: There is no र in font nullfont!
+Missing character: There is no ा in font nullfont!
+Missing character: There is no ग in font nullfont!
+Missing character: There is no स in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no व in font nullfont!
+Missing character: There is no र in font nullfont!
+Missing character: There is no ू in font nullfont!
+Missing character: There is no प in font nullfont!
+Missing character: There is no प in font nullfont!
+Missing character: There is no ा in font nullfont!
+Missing character: There is no श in font nullfont!
+Missing character: There is no ा in font nullfont!
+Missing character: There is no ढ in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no य in font nullfont!
+Missing character: There is no ा in font nullfont!
+Missing character: There is no क in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no र in font nullfont!
+Missing character: There is no ो in font nullfont!
+Missing character: There is no ध in font nullfont!
+Missing character: There is no ा in font nullfont!
+Missing character: There is no क in font nullfont!
+Missing character: There is no ा in font nullfont!
+Missing character: There is no र in font nullfont!
+Missing character: There is no ा in font nullfont!
+Missing character: There is no ङ in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no क in font nullfont!
+Missing character: There is no ु in font nullfont!
+Missing character: There is no श in font nullfont!
+Missing character: There is no ो in font nullfont!
+Missing character: There is no ज in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no ज in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no व in font nullfont!
+Missing character: There is no ल in font nullfont!
+Missing character: There is no ा in font nullfont!
+Missing character: There is no ॥ in font nullfont!
+Missing character: There is no म in font nullfont!
+Missing character: There is no न in font nullfont!
+Missing character: There is no ो in font nullfont!
+Missing character: There is no र in font nullfont!
+Missing character: There is no ू in font nullfont!
+Missing character: There is no प in font nullfont!
+Missing character: There is no े in font nullfont!
+Missing character: There is no क in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no ष in font nullfont!
+Missing character: There is no ु in font nullfont!
+Missing character: There is no क in font nullfont!
+Missing character: There is no ो in font nullfont!
+Missing character: There is no द in font nullfont!
+Missing character: There is no ण in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no ड in font nullfont!
+Missing character: There is no ा in font nullfont!
+Missing character: There is no प in font nullfont!
+Missing character: There is no ञ in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no च in font nullfont!
+Missing character: There is no त in font nullfont!
+Missing character: There is no न in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no म in font nullfont!
+Missing character: There is no ा in font nullfont!
+Missing character: There is no त in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no र in font nullfont!
+Missing character: There is no स in font nullfont!
+Missing character: There is no ा in font nullfont!
+Missing character: There is no य in font nullfont!
+Missing character: There is no क in font nullfont!
+Missing character: There is no ा in font nullfont!
+Missing character: There is no । in font nullfont!
+Missing character: There is no न in font nullfont!
+Missing character: There is no ि in font nullfont!
+Missing character: There is no ज in font nullfont!
+Missing character: There is no ा in font nullfont!
+Missing character: There is no र in font nullfont!
+Missing character: There is no ु in font nullfont!
+Missing character: There is no ण in font nullfont!
+Missing character: There is no प in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no र in font nullfont!
+Missing character: There is no भ in font nullfont!
+Missing character: There is no ा in font nullfont!
+Missing character: There is no प in font nullfont!
+Missing character: There is no ू in font nullfont!
+Missing character: There is no र in font nullfont!
+Missing character: There is no म in font nullfont!
+Missing character: There is no ज in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no ज in font nullfont!
+Missing character: There is no द in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no ब in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no र in font nullfont!
+Missing character: There is no ह in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no म in font nullfont!
+Missing character: There is no ा in font nullfont!
+Missing character: There is no ण in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no ड in font nullfont!
+Missing character: There is no म in font nullfont!
+Missing character: There is no ण in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no ड in font nullfont!
+Missing character: There is no ल in font nullfont!
+Missing character: There is no ा in font nullfont!
+Missing character: There is no ॥ in font nullfont!
+
+Overfull \hbox (20.00002pt too wide) in paragraph at lines 6--12
+[][] 
+ []
+
+! Undefined control sequence.
+l.15 {\scriptsize
+                  \iastfont
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.15 {\scriptsize \iastfont
+                           
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.16 u
+      dyad-bhānu-sahasrābhā catur-bāhu-samanvitā |\\
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no u in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no ā in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no ā in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no ā in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no ā in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ā in font nullfont!
+Missing character: There is no | in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no ā in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no ū in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no ā in font nullfont!
+Missing character: There is no ś in font nullfont!
+Missing character: There is no ā in font nullfont!
+Missing character: There is no ḍ in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no ā in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no ā in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no ā in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no ā in font nullfont!
+Missing character: There is no ṅ in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no ś in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no j in font nullfont!
+Missing character: There is no j in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no ā in font nullfont!
+Missing character: There is no | in font nullfont!
+Missing character: There is no | in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no ū in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no ṣ in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no ṇ in font nullfont!
+Missing character: There is no ḍ in font nullfont!
+Missing character: There is no ā in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no ñ in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no ā in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no ā in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no ā in font nullfont!
+Missing character: There is no | in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no j in font nullfont!
+Missing character: There is no ā in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no ṇ in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no ā in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no ū in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no j in font nullfont!
+Missing character: There is no j in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no ā in font nullfont!
+Missing character: There is no ṇ in font nullfont!
+Missing character: There is no ḍ in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no ṇ in font nullfont!
+Missing character: There is no ḍ in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no ā in font nullfont!
+Missing character: There is no | in font nullfont!
+Missing character: There is no | in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 16--20
+[]
+ []
+
+! Undefined control sequence.
+l.23 {\scriptsize
+                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.24 \anvaya
+            {%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.25 उ
+      द्यद्भानुसहस्राभा चतुर्बाहुसमन्विता रागस्वरूपपाशाढ्या क्रोधाकाराङ्कुशो...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no उ in font nullfont!
+Missing character: There is no द in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no य in font nullfont!
+Missing character: There is no द in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no भ in font nullfont!
+Missing character: There is no ा in font nullfont!
+Missing character: There is no न in font nullfont!
+Missing character: There is no ु in font nullfont!
+Missing character: There is no स in font nullfont!
+Missing character: There is no ह in font nullfont!
+Missing character: There is no स in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no र in font nullfont!
+Missing character: There is no ा in font nullfont!
+Missing character: There is no भ in font nullfont!
+Missing character: There is no ा in font nullfont!
+Missing character: There is no च in font nullfont!
+Missing character: There is no त in font nullfont!
+Missing character: There is no ु in font nullfont!
+Missing character: There is no र in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no ब in font nullfont!
+Missing character: There is no ा in font nullfont!
+Missing character: There is no ह in font nullfont!
+Missing character: There is no ु in font nullfont!
+Missing character: There is no स in font nullfont!
+Missing character: There is no म in font nullfont!
+Missing character: There is no न in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no व in font nullfont!
+Missing character: There is no ि in font nullfont!
+Missing character: There is no त in font nullfont!
+Missing character: There is no ा in font nullfont!
+Missing character: There is no र in font nullfont!
+Missing character: There is no ा in font nullfont!
+Missing character: There is no ग in font nullfont!
+Missing character: There is no स in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no व in font nullfont!
+Missing character: There is no र in font nullfont!
+Missing character: There is no ू in font nullfont!
+Missing character: There is no प in font nullfont!
+Missing character: There is no प in font nullfont!
+Missing character: There is no ा in font nullfont!
+Missing character: There is no श in font nullfont!
+Missing character: There is no ा in font nullfont!
+Missing character: There is no ढ in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no य in font nullfont!
+Missing character: There is no ा in font nullfont!
+Missing character: There is no क in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no र in font nullfont!
+Missing character: There is no ो in font nullfont!
+Missing character: There is no ध in font nullfont!
+Missing character: There is no ा in font nullfont!
+Missing character: There is no क in font nullfont!
+Missing character: There is no ा in font nullfont!
+Missing character: There is no र in font nullfont!
+Missing character: There is no ा in font nullfont!
+Missing character: There is no ङ in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no क in font nullfont!
+Missing character: There is no ु in font nullfont!
+Missing character: There is no श in font nullfont!
+Missing character: There is no ो in font nullfont!
+Missing character: There is no ज in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no ज in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no व in font nullfont!
+Missing character: There is no ल in font nullfont!
+Missing character: There is no ा in font nullfont!
+Missing character: There is no म in font nullfont!
+Missing character: There is no न in font nullfont!
+Missing character: There is no ो in font nullfont!
+Missing character: There is no र in font nullfont!
+Missing character: There is no ू in font nullfont!
+Missing character: There is no प in font nullfont!
+Missing character: There is no े in font nullfont!
+Missing character: There is no क in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no ष in font nullfont!
+Missing character: There is no ु in font nullfont!
+Missing character: There is no क in font nullfont!
+Missing character: There is no ो in font nullfont!
+Missing character: There is no द in font nullfont!
+Missing character: There is no ण in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no ड in font nullfont!
+Missing character: There is no ा in font nullfont!
+Missing character: There is no प in font nullfont!
+Missing character: There is no ञ in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no च in font nullfont!
+Missing character: There is no त in font nullfont!
+Missing character: There is no न in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no म in font nullfont!
+Missing character: There is no ा in font nullfont!
+Missing character: There is no त in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no र in font nullfont!
+Missing character: There is no स in font nullfont!
+Missing character: There is no ा in font nullfont!
+Missing character: There is no य in font nullfont!
+Missing character: There is no क in font nullfont!
+Missing character: There is no ा in font nullfont!
+Missing character: There is no न in font nullfont!
+Missing character: There is no ि in font nullfont!
+Missing character: There is no ज in font nullfont!
+Missing character: There is no ा in font nullfont!
+Missing character: There is no र in font nullfont!
+Missing character: There is no ु in font nullfont!
+Missing character: There is no ण in font nullfont!
+Missing character: There is no प in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no र in font nullfont!
+Missing character: There is no भ in font nullfont!
+Missing character: There is no ा in font nullfont!
+Missing character: There is no प in font nullfont!
+Missing character: There is no ू in font nullfont!
+Missing character: There is no र in font nullfont!
+Missing character: There is no म in font nullfont!
+Missing character: There is no ज in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no ज in font nullfont!
+Missing character: There is no द in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no ब in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no र in font nullfont!
+Missing character: There is no ह in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no म in font nullfont!
+Missing character: There is no ा in font nullfont!
+Missing character: There is no ण in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no ड in font nullfont!
+Missing character: There is no म in font nullfont!
+Missing character: There is no ण in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no ड in font nullfont!
+Missing character: There is no ल in font nullfont!
+Missing character: There is no ा in font nullfont!
+Missing character: There is no । in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 25--27
+[]
+ []
+
+! Undefined control sequence.
+l.28 \scriptsize
+                 \iastfont \itmean{%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.28 \scriptsize \iastfont
+                           \itmean{%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.28 \scriptsize \iastfont \itmean
+                                  {%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.29 «
+      Splendente come mille soli nascenti, dotata di quattro braccia; che po...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no « in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no q in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no ; in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no z in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no ; in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no ’ in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no z in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no q in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no ā in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no ; in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no ’ in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no » in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 29--31
+[]
+ []
+
+
+! LaTeX Error: \begin{document} ended by \end{sloka}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.33 \end{sloka}
+                
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Undefined control sequence.
+l.35 \wordmeaning
+                 {%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.36 \wordline
+              {उद्यद्-भानु-सहस्र-आभा}{udyad-bhānu-sahasrābhā}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 \wordline{उ
+                द्यद्-भानु-सहस्र-आभा}{udyad-bhānu-sahasrābhā}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no उ in font nullfont!
+Missing character: There is no द in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no य in font nullfont!
+Missing character: There is no द in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no भ in font nullfont!
+Missing character: There is no ा in font nullfont!
+Missing character: There is no न in font nullfont!
+Missing character: There is no ु in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no स in font nullfont!
+Missing character: There is no ह in font nullfont!
+Missing character: There is no स in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no र in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no आ in font nullfont!
+Missing character: There is no भ in font nullfont!
+Missing character: There is no ा in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no ā in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no ā in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no ā in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no ; in font nullfont!
+! Undefined control sequence.
+l.38 \wordline
+              {चतुर्-बाहु-समन्विता}{catur-bāhu-samanvitā}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no च in font nullfont!
+Missing character: There is no त in font nullfont!
+Missing character: There is no ु in font nullfont!
+Missing character: There is no र in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no ब in font nullfont!
+Missing character: There is no ा in font nullfont!
+Missing character: There is no ह in font nullfont!
+Missing character: There is no ु in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no स in font nullfont!
+Missing character: There is no म in font nullfont!
+Missing character: There is no न in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no व in font nullfont!
+Missing character: There is no ि in font nullfont!
+Missing character: There is no त in font nullfont!
+Missing character: There is no ा in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no ā in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ā in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no q in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no ; in font nullfont!
+! Undefined control sequence.
+l.40 \wordline
+              {राग-स्वरूप-पाश-आढ्या}{rāga-svarūpa-pāśāḍhyā}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no र in font nullfont!
+Missing character: There is no ा in font nullfont!
+Missing character: There is no ग in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no स in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no व in font nullfont!
+Missing character: There is no र in font nullfont!
+Missing character: There is no ू in font nullfont!
+Missing character: There is no प in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no प in font nullfont!
+Missing character: There is no ा in font nullfont!
+Missing character: There is no श in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no आ in font nullfont!
+Missing character: There is no ढ in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no य in font nullfont!
+Missing character: There is no ा in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no ā in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no ū in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no ā in font nullfont!
+Missing character: There is no ś in font nullfont!
+Missing character: There is no ā in font nullfont!
+Missing character: There is no ḍ in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no ā in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no ; in font nullfont!
+! Undefined control sequence.
+l.42 \wordline
+              {क्रोध-आकार-अङ्कुश-उज्ज्वला}{krodhākārāṅkuśojjvalā}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no क in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no र in font nullfont!
+Missing character: There is no ो in font nullfont!
+Missing character: There is no ध in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no आ in font nullfont!
+Missing character: There is no क in font nullfont!
+Missing character: There is no ा in font nullfont!
+Missing character: There is no र in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no अ in font nullfont!
+Missing character: There is no ङ in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no क in font nullfont!
+Missing character: There is no ु in font nullfont!
+Missing character: There is no श in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no उ in font nullfont!
+Missing character: There is no ज in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no ज in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no व in font nullfont!
+Missing character: There is no ल in font nullfont!
+Missing character: There is no ा in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no ā in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no ā in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no ā in font nullfont!
+Missing character: There is no ṅ in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no ś in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no j in font nullfont!
+Missing character: There is no j in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no ā in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no ; in font nullfont!
+! Undefined control sequence.
+l.44 \wordline
+              {मनस्-रूप-इक्षु-कोदण्डा}{mano-rūpekṣu-kodaṇḍā}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no म in font nullfont!
+Missing character: There is no न in font nullfont!
+Missing character: There is no स in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no र in font nullfont!
+Missing character: There is no ू in font nullfont!
+Missing character: There is no प in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no इ in font nullfont!
+Missing character: There is no क in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no ष in font nullfont!
+Missing character: There is no ु in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no क in font nullfont!
+Missing character: There is no ो in font nullfont!
+Missing character: There is no द in font nullfont!
+Missing character: There is no ण in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no ड in font nullfont!
+Missing character: There is no ा in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no ū in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no ṣ in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no ṇ in font nullfont!
+Missing character: There is no ḍ in font nullfont!
+Missing character: There is no ā in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no ’ in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no z in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no ; in font nullfont!
+! Undefined control sequence.
+l.46 \wordline
+              {पञ्च-तन्मात्र-सायकाः}{pañca-tanmātra-sāyakā}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no प in font nullfont!
+Missing character: There is no ञ in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no च in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no त in font nullfont!
+Missing character: There is no न in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no म in font nullfont!
+Missing character: There is no ा in font nullfont!
+Missing character: There is no त in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no र in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no स in font nullfont!
+Missing character: There is no ा in font nullfont!
+Missing character: There is no य in font nullfont!
+Missing character: There is no क in font nullfont!
+Missing character: There is no ा in font nullfont!
+Missing character: There is no ः in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no ñ in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no ā in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no ā in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no ā in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no q in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no ā in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no ; in font nullfont!
+! Undefined control sequence.
+l.48 \wordline
+              {निज-अरुण-प्रभा-पूर-मज्जत्-ब्रह्माण्ड-मण्डला}{nijāruṇa-prabhā-...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no न in font nullfont!
+Missing character: There is no ि in font nullfont!
+Missing character: There is no ज in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no अ in font nullfont!
+Missing character: There is no र in font nullfont!
+Missing character: There is no ु in font nullfont!
+Missing character: There is no ण in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no प in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no र in font nullfont!
+Missing character: There is no भ in font nullfont!
+Missing character: There is no ा in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no प in font nullfont!
+Missing character: There is no ू in font nullfont!
+Missing character: There is no र in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no म in font nullfont!
+Missing character: There is no ज in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no ज in font nullfont!
+Missing character: There is no त in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no ब in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no र in font nullfont!
+Missing character: There is no ह in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no म in font nullfont!
+Missing character: There is no ा in font nullfont!
+Missing character: There is no ण in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no ड in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no म in font nullfont!
+Missing character: There is no ण in font nullfont!
+Missing character: There is no ् in font nullfont!
+Missing character: There is no ड in font nullfont!
+Missing character: There is no ल in font nullfont!
+Missing character: There is no ा in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no j in font nullfont!
+Missing character: There is no ā in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no ṇ in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no ā in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no ū in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no j in font nullfont!
+Missing character: There is no j in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no ā in font nullfont!
+Missing character: There is no ṇ in font nullfont!
+Missing character: There is no ḍ in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no ṇ in font nullfont!
+Missing character: There is no ḍ in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no ā in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no ’ in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no ; in font nullfont!
+)
+! Emergency stop.
+<*> ./namavali-002.tex
+                      
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 21 strings out of 402987
+ 438 string characters out of 5448732
+ 427385 words of memory out of 5000000
+ 28816 multiletter control sequences out of 15000+600000
+ 627721 words of font info for 40 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 19i,6n,20p,368b,100s stack positions out of 10000i,1000n,20000p,200000b,200000s
+No pages of output.
