@@ -1,4 +1,4 @@
-\documentclass[11pt,twoside,openright]{book}
+\documentclass[11pt,twoside,openany]{book}
 
 % Layout and fonts
 \input{tex/layout}
@@ -15,27 +15,40 @@
 
 
 \input{frontmatter/acknowledgments}
+\hbox{}\newpage
 
 \tableofcontents
 
+% Forza pagina bianca e nuova numerazione romana dispari per il Preface
+\clearpage
+\thispagestyle{empty}
+\hbox{}%
+\newpage
 
-
-\input{frontmatter/preface}
-
-\mainmatter
 \pagestyle{plain}   % solo numero di pagina in basso, niente “INDICE”
-\ifodd\value{page}\hbox{}\newpage\fi
+\input{frontmatter/preface}
+\mainmatter
+\pagestyle{plain}
+
+% pagina bianca per portare il cap.1 su pari
+\hbox{}\newpage
+
 \include{chapters/chapter_01}
 \include{chapters/chapter_02}
 \include{chapters/chapter_03}
 \include{chapters/chapter_04}
 \include{chapters/chapter_05}
 \include{chapters/chapter_06}
+
+\cleardoublepage
 \include{chapters/chapter_07}
 \include{chapters/chapter_08}
+
+
 
 \backmatter
 
 \input{backmatter/epilogue}
+\AddFinalBlankPage
 
 \end{document}
