@@ -1,12 +1,11 @@
 \usepackage[
   paperwidth=6in,
   paperheight=9in,
-  inner=0.8in,
+  inner=0.6in,
   outer=0.5in,
   top=0.7in,
   bottom=0.7in
 ]{geometry}
-
 \usepackage{fontspec}
 \usepackage{polyglossia}
 
@@ -20,6 +19,7 @@
 \usepackage{microtype}
 \usepackage{setspace}
 \usepackage{titlesec}
+\usepackage{endnotes}
 
 \titleformat{\chapter}[display]
   {\normalfont\large\bfseries}
@@ -27,6 +27,8 @@
   {0.5ex}
   {\filright}
 \titlespacing*{\chapter}{0pt}{*4}{*2}
+%\titleclass{\chapter}{top}[\part]
+%\newcommand{\chapterbreak}{\cleardoublepage}
 
 % per Srichakra
 \usepackage{tikz}

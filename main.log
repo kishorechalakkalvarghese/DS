@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.1.1)  9 JAN 2026 21:05
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.1.1)  10 JAN 2026 20:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -230,6 +230,16 @@ Package: titlesec 2025/01/04 v2.17 Sectioning titles
 \titlewidthlast=\dimen164
 \titlewidthfirst=\dimen165
 )
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/endnotes\endnotes.sty
+Invalid UTF-8 byte or sequence at line 118 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 118 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 121 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 121 replaced by U+FFFD.
+Package: endnotes 2020-01-02 endnotes package
+\c@endnote=\count301
+\endnotesep=\dimen166
+\@enotes=\write3
+)
 (C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.s
 ty
 (C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty
@@ -238,8 +248,8 @@ ty
 (C:\Users\User\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-
 common.tex
 \pgfutil@everybye=\toks22
-\pgfutil@tempdima=\dimen166
-\pgfutil@tempdimb=\dimen167
+\pgfutil@tempdima=\dimen167
+\pgfutil@tempdimb=\dimen168
 )
 (C:\Users\User\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-
 latex.def
@@ -270,8 +280,8 @@ Package graphics Info: Driver file: xetex.def on input line 106.
 (C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\xetex.def
 File: xetex.def 2025/11/01 v5.0p Graphics/color driver for xetex
 ))
-\Gin@req@height=\dimen168
-\Gin@req@width=\dimen169
+\Gin@req@height=\dimen169
+\Gin@req@width=\dimen170
 )
 (C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.s
 ty
@@ -288,26 +298,26 @@ code.tex
 ibraryfiltered.code.tex
 \pgfkeys@tmptoks=\toks25
 ))
-\pgf@x=\dimen170
-\pgf@y=\dimen171
-\pgf@xa=\dimen172
-\pgf@ya=\dimen173
-\pgf@xb=\dimen174
-\pgf@yb=\dimen175
-\pgf@xc=\dimen176
-\pgf@yc=\dimen177
-\pgf@xd=\dimen178
-\pgf@yd=\dimen179
-\w@pgf@writea=\write3
+\pgf@x=\dimen171
+\pgf@y=\dimen172
+\pgf@xa=\dimen173
+\pgf@ya=\dimen174
+\pgf@xb=\dimen175
+\pgf@yb=\dimen176
+\pgf@xc=\dimen177
+\pgf@yc=\dimen178
+\pgf@xd=\dimen179
+\pgf@yd=\dimen180
+\w@pgf@writea=\write4
 \r@pgf@reada=\read2
-\c@pgf@counta=\count301
-\c@pgf@countb=\count302
-\c@pgf@countc=\count303
-\c@pgf@countd=\count304
+\c@pgf@counta=\count302
+\c@pgf@countb=\count303
+\c@pgf@countc=\count304
+\c@pgf@countd=\count305
 \t@pgf@toka=\toks26
 \t@pgf@tokb=\toks27
 \t@pgf@tokc=\toks28
-\pgf@sys@id@count=\count305
+\pgf@sys@id@count=\count306
 
 (C:\Users\User\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.cf
 g
@@ -327,13 +337,13 @@ File: pgfsys-dvipdfmx.def 2025-08-29 v3.1.11a (3.1.11a)
 -common-pdf.def
 File: pgfsys-common-pdf.def 2025-08-29 v3.1.11a (3.1.11a)
 )
-\pgfsys@objnum=\count306
+\pgfsys@objnum=\count307
 )))
 (C:\Users\User\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys
 softpath.code.tex
 File: pgfsyssoftpath.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-\pgfsyssoftpath@smallbuffer@items=\count307
-\pgfsyssoftpath@bigbuffer@items=\count308
+\pgfsyssoftpath@smallbuffer@items=\count308
+\pgfsyssoftpath@bigbuffer@items=\count309
 )
 (C:\Users\User\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys
 protocol.code.tex
@@ -367,8 +377,8 @@ tex
 ode.tex)
 (C:\Users\User\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparser
 .code.tex
-\pgfmath@dimen=\dimen180
-\pgfmath@count=\count309
+\pgfmath@dimen=\dimen181
+\pgfmath@count=\count310
 \pgfmath@box=\box56
 \pgfmath@toks=\toks29
 \pgfmath@stack@operand=\toks30
@@ -396,39 +406,39 @@ ons.integerarithmetics.code.tex)
 ode.tex)
 (C:\Users\User\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat.
 code.tex
-\c@pgfmathroundto@lastzeros=\count310
+\c@pgfmathroundto@lastzeros=\count311
 ))
 (C:\Users\User\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.t
 ex)
 (C:\Users\User\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
 points.code.tex
 File: pgfcorepoints.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-\pgf@picminx=\dimen181
-\pgf@picmaxx=\dimen182
-\pgf@picminy=\dimen183
-\pgf@picmaxy=\dimen184
-\pgf@pathminx=\dimen185
-\pgf@pathmaxx=\dimen186
-\pgf@pathminy=\dimen187
-\pgf@pathmaxy=\dimen188
-\pgf@xx=\dimen189
-\pgf@xy=\dimen190
-\pgf@yx=\dimen191
-\pgf@yy=\dimen192
-\pgf@zx=\dimen193
-\pgf@zy=\dimen194
+\pgf@picminx=\dimen182
+\pgf@picmaxx=\dimen183
+\pgf@picminy=\dimen184
+\pgf@picmaxy=\dimen185
+\pgf@pathminx=\dimen186
+\pgf@pathmaxx=\dimen187
+\pgf@pathminy=\dimen188
+\pgf@pathmaxy=\dimen189
+\pgf@xx=\dimen190
+\pgf@xy=\dimen191
+\pgf@yx=\dimen192
+\pgf@yy=\dimen193
+\pgf@zx=\dimen194
+\pgf@zy=\dimen195
 )
 (C:\Users\User\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
 pathconstruct.code.tex
 File: pgfcorepathconstruct.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-\pgf@path@lastx=\dimen195
-\pgf@path@lasty=\dimen196
+\pgf@path@lastx=\dimen196
+\pgf@path@lasty=\dimen197
 )
 (C:\Users\User\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
 pathusage.code.tex
 File: pgfcorepathusage.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-\pgf@shorten@end@additional=\dimen197
-\pgf@shorten@start@additional=\dimen198
+\pgf@shorten@end@additional=\dimen198
+\pgf@shorten@start@additional=\dimen199
 )
 (C:\Users\User\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
 scopes.code.tex
@@ -436,19 +446,19 @@ File: pgfcorescopes.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgfpic=\box57
 \pgf@hbox=\box58
 \pgf@layerbox@main=\box59
-\pgf@picture@serial@count=\count311
+\pgf@picture@serial@count=\count312
 )
 (C:\Users\User\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
 graphicstate.code.tex
 File: pgfcoregraphicstate.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-\pgflinewidth=\dimen199
+\pgflinewidth=\dimen256
 )
 (C:\Users\User\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
 transformations.code.tex
 File: pgfcoretransformations.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-\pgf@pt@x=\dimen256
-\pgf@pt@y=\dimen257
-\pgf@pt@temp=\dimen258
+\pgf@pt@x=\dimen257
+\pgf@pt@y=\dimen258
+\pgf@pt@temp=\dimen259
 )
 (C:\Users\User\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
 quick.code.tex
@@ -465,14 +475,14 @@ File: pgfcorepathprocessing.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 (C:\Users\User\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
 arrows.code.tex
 File: pgfcorearrows.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-\pgfarrowsep=\dimen259
+\pgfarrowsep=\dimen260
 )
 (C:\Users\User\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
 shade.code.tex
 File: pgfcoreshade.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-\pgf@max=\dimen260
-\pgf@sys@shading@range@num=\count312
-\pgf@shadingcount=\count313
+\pgf@max=\dimen261
+\pgf@sys@shading@range@num=\count313
+\pgf@shadingcount=\count314
 )
 (C:\Users\User\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
 image.code.tex
@@ -511,8 +521,8 @@ File: pgfmoduleplot.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 (C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcom
 p-version-0-65.sty
 Package: pgfcomp-version-0-65 2025-08-29 v3.1.11a (3.1.11a)
-\pgf@nodesepstart=\dimen261
-\pgf@nodesepend=\dimen262
+\pgf@nodesepstart=\dimen262
+\pgf@nodesepend=\dimen263
 )
 (C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcom
 p-version-1-18.sty
@@ -530,8 +540,8 @@ tex))
 (C:\Users\User\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor.c
 ode.tex
 Package: pgffor 2025-08-29 v3.1.11a (3.1.11a)
-\pgffor@iter=\dimen263
-\pgffor@skip=\dimen264
+\pgffor@iter=\dimen264
+\pgffor@skip=\dimen265
 \pgffor@stack=\toks32
 \pgffor@toks=\toks33
 ))
@@ -542,34 +552,34 @@ Package: tikz 2025-08-29 v3.1.11a (3.1.11a)
 (C:\Users\User\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibra
 ryplothandlers.code.tex
 File: pgflibraryplothandlers.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-\pgf@plot@mark@count=\count314
-\pgfplotmarksize=\dimen265
+\pgf@plot@mark@count=\count315
+\pgfplotmarksize=\dimen266
 )
-\tikz@lastx=\dimen266
-\tikz@lasty=\dimen267
-\tikz@lastxsaved=\dimen268
-\tikz@lastysaved=\dimen269
-\tikz@lastmovetox=\dimen270
-\tikz@lastmovetoy=\dimen271
-\tikzleveldistance=\dimen272
-\tikzsiblingdistance=\dimen273
+\tikz@lastx=\dimen267
+\tikz@lasty=\dimen268
+\tikz@lastxsaved=\dimen269
+\tikz@lastysaved=\dimen270
+\tikz@lastmovetox=\dimen271
+\tikz@lastmovetoy=\dimen272
+\tikzleveldistance=\dimen273
+\tikzsiblingdistance=\dimen274
 \tikz@figbox=\box62
 \tikz@figbox@bg=\box63
 \tikz@tempbox=\box64
 \tikz@tempbox@bg=\box65
-\tikztreelevel=\count315
-\tikznumberofchildren=\count316
-\tikznumberofcurrentchild=\count317
-\tikz@fig@count=\count318
+\tikztreelevel=\count316
+\tikznumberofchildren=\count317
+\tikznumberofcurrentchild=\count318
+\tikz@fig@count=\count319
 
 (C:\Users\User\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodulem
 atrix.code.tex
 File: pgfmodulematrix.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-\pgfmatrixcurrentrow=\count319
-\pgfmatrixcurrentcolumn=\count320
-\pgf@matrix@numberofcolumns=\count321
+\pgfmatrixcurrentrow=\count320
+\pgfmatrixcurrentcolumn=\count321
+\pgf@matrix@numberofcolumns=\count322
 )
-\tikz@expandcount=\count322
+\tikz@expandcount=\count323
 
 (C:\Users\User\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz
 /libraries\tikzlibrarytopaths.code.tex
@@ -587,21 +597,13 @@ File: tikzlibrarybackgrounds.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 /libraries\tikzlibraryfpu.code.tex
 (C:\Users\User\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibra
 ryfpu.code.tex))
-\tikz@math@for@depth=\count323
-\tikz@math@dimen=\dimen274
+\tikz@math@for@depth=\count324
+\tikz@math@dimen=\dimen275
 \tikz@math@toks=\toks34
-)) (tex/sloka-macros.tex) (main.aux (chapters/dhyanam_01.aux)
-(chapters/dhyanam_02.aux) (chapters/dhyanam_03.aux) (chapters/dhyanam_04.aux)
-(chapters/dhyanam_05.aux) (chapters/namavali-001.aux)
-(chapters/namavali-002.aux) (chapters/namavali-003.aux)
-(chapters/namavali-004.aux) (chapters/namavali-005.aux)
-(chapters/namavali-006.aux) (chapters/namavali-007.aux)
-(chapters/namavali-008.aux) (chapters/namavali-009.aux)
-(chapters/namavali-010.aux) (chapters/namavali-011.aux)
-(chapters/namavali-012.aux) (chapters/namavali-013.aux)
-(chapters/namavali-014.aux) (chapters/namavali-015.aux)
-(chapters/namavali-016.aux) (chapters/namavali-017.aux)
-(chapters/namavali-018.aux))
+)) (tex/sloka-macros.tex) (main.aux (chapters/chapter_01.aux)
+(chapters/chapter_02.aux) (chapters/chapter_03.aux) (chapters/chapter_04.aux)
+(chapters/chapter_05.aux) (chapters/chapter_06.aux) (chapters/chapter_07.aux)
+(chapters/chapter_08.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
@@ -629,13 +631,13 @@ LaTeX Font Info:    ... okay on input line 9.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: twoside 
-* h-part:(L,W,R)=(57.81621pt, 339.6688pt, 36.135pt)
+* h-part:(L,W,R)=(43.36243pt, 354.12257pt, 36.135pt)
 * v-part:(T,H,B)=(50.58878pt, 549.25244pt, 50.58878pt)
 * \paperwidth=433.62pt
 * \paperheight=650.43pt
-* \textwidth=339.6688pt
+* \textwidth=354.12257pt
 * \textheight=549.25244pt
-* \oddsidemargin=-14.45378pt
+* \oddsidemargin=-28.90756pt
 * \evensidemargin=-36.135pt
 * \topmargin=-53.55501pt
 * \headheight=12.0pt
@@ -747,7 +749,13 @@ LaTeX Font Warning: Font shape `TU/LatinModernRoman(0)/m/sc' undefined
 
 
 
-]) (frontmatter/copyright.tex) (frontmatter/acknowledgments.tex [2
+]) (frontmatter/copyright.tex
+Overfull \hbox (5.00743pt too wide) in paragraph at lines 26--27
+\TU/LatinModernRoman(0)/m/n/10 Nota sull’uso dell’AI. — Strumenti di intelligen
+za artificiale (Perplexity e ChatGPT)
+ []
+
+) (frontmatter/acknowledgments.tex [2
 
 ]
 
@@ -1059,375 +1067,227 @@ nput line 12.
 
 
 ] (main.toc)
-\tf@toc=\write4
-\openout4 = `main.toc'.
+\tf@toc=\write5
+\openout5 = `main.toc'.
 
  (frontmatter/preface.tex [5] [6
 
-]) [7] [8
+] [7]) [8] [1
 
 ]
-\openout2 = `chapters/dhyanam_01.aux'.
+\openout2 = `chapters/chapter_01.aux'.
 
 
-(chapters/dhyanam_01.tex [1
+(chapters/chapter_01.tex [2
 
-] [2
 
 ]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 35.
+(Font)              <14.4> on input line 37.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 35.
+(Font)              <7> on input line 37.
 
 (C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
+Missing character: There is no ṁ in font Latin Modern Roman 10 Regular/OT:scrip
+t=latn;language=dflt;!
+Missing character: There is no ṁ in font Latin Modern Roman 10 Regular/OT:scrip
+t=latn;language=dflt;!
+Missing character: There is no ṁ in font Latin Modern Roman 10 Regular/OT:scrip
+t=latn;language=dflt;!
 [3]) [4
 
 ]
-\openout2 = `chapters/dhyanam_02.aux'.
+\openout2 = `chapters/chapter_02.aux'.
 
- (chapters/dhyanam_02.tex [5
+ (chapters/chapter_02.tex
+Missing character: There is no ṁ in font Latin Modern Roman 10 Regular/OT:scrip
+t=latn;language=dflt;!
+Missing character: There is no ṁ in font Latin Modern Roman 10 Regular/OT:scrip
+t=latn;language=dflt;!
+Missing character: There is no ṁ in font Latin Modern Roman 10 Regular/OT:scrip
+t=latn;language=dflt;!
+Missing character: There is no ṁ in font Latin Modern Roman 10 Regular/OT:scrip
+t=latn;language=dflt;!
+[5
 
 
 
-
-]) [6
 
 ]
-\openout2 = `chapters/dhyanam_03.aux'.
-
- (chapters/dhyanam_03.tex [7
-
-
-
-
-])
-[8
+Missing character: There is no ṁ in font Latin Modern Roman 10 Regular/OT:scrip
+t=latn;language=dflt;!
+Missing character: There is no ṁ in font Latin Modern Roman 10 Regular/OT:scrip
+t=latn;language=dflt;!
+) [6
 
 ]
-\openout2 = `chapters/dhyanam_04.aux'.
+\openout2 = `chapters/chapter_03.aux'.
 
- (chapters/dhyanam_04.tex [9
+ (chapters/chapter_03.tex
+Missing character: There is no ṁ in font Latin Modern Roman 10 Regular/OT:scrip
+t=latn;language=dflt;!
+Missing character: There is no ṁ in font Latin Modern Roman 10 Regular/OT:scrip
+t=latn;language=dflt;!
+Missing character: There is no ṁ in font Latin Modern Roman 10 Regular/OT:scrip
+t=latn;language=dflt;!
+[7
 
 
 
-
-]) [10
 
 ]
-\openout2 = `chapters/dhyanam_05.aux'.
+Missing character: There is no ṁ in font Latin Modern Roman 10 Regular/OT:scrip
+t=latn;language=dflt;!
+Missing character: There is no ṁ in font Latin Modern Roman 10 Regular/OT:scrip
+t=latn;language=dflt;!
+) [8
 
- (chapters/dhyanam_05.tex
-Overfull \hbox (24.21pt too wide) in paragraph at lines 15--15
- [] 
- []
+]
+\openout2 = `chapters/chapter_04.aux'.
+
+ (chapters/chapter_04.tex
+Missing character: There is no ṁ in font Latin Modern Roman 10 Regular/OT:scrip
+t=latn;language=dflt;!
+Missing character: There is no ṁ in font Latin Modern Roman 10 Regular/OT:scrip
+t=latn;language=dflt;!
+Missing character: There is no ṁ in font Latin Modern Roman 10 Regular/OT:scrip
+t=latn;language=dflt;!
+Missing character: There is no ṁ in font Latin Modern Roman 10 Regular/OT:scrip
+t=latn;language=dflt;!
+Missing character: There is no ṁ in font Latin Modern Roman 10 Regular/OT:scrip
+t=latn;language=dflt;!
+Missing character: There is no ṁ in font Latin Modern Roman 10 Regular/OT:scrip
+t=latn;language=dflt;!
+Missing character: There is no ṁ in font Latin Modern Roman 10 Regular/OT:scrip
+t=latn;language=dflt;!
+Missing character: There is no ṁ in font Latin Modern Roman 10 Regular/OT:scrip
+t=latn;language=dflt;!
+Missing character: There is no ṁ in font Latin Modern Roman 10 Regular/OT:scrip
+t=latn;language=dflt;!
+Missing character: There is no ṁ in font Latin Modern Roman 10 Regular/OT:scrip
+t=latn;language=dflt;!
+[9
 
 
-Overfull \hbox (6.4562pt too wide) in paragraph at lines 41--41
-\TU/NirmalaUI(0)/m/n/8 पृथिवीतत्त्वात्मिकायै श्रीललितादेव्यै “लं” गन्धं परिकल्प
-यामि । आकाशतत्त्वात्मिकायै श्रीललितादेव्यै “हं” पुष्पं परिकल्पयामि
- []
 
+
+]
+Missing character: There is no ṁ in font Latin Modern Roman 10 Regular/OT:scrip
+t=latn;language=dflt;!
+Missing character: There is no ṁ in font Latin Modern Roman 10 Regular/OT:scrip
+t=latn;language=dflt;!
+Missing character: There is no ṁ in font Latin Modern Roman 10 Regular/OT:scrip
+t=latn;language=dflt;!
+Missing character: There is no ṁ in font Latin Modern Roman 10 Regular/OT:scrip
+t=latn;language=dflt;!
+Missing character: There is no ṁ in font Latin Modern Roman 10 Regular/OT:scrip
+t=latn;language=dflt;!
+Missing character: There is no ṁ in font Latin Modern Roman 10 Regular/OT:scrip
+t=latn;language=dflt;!
+Missing character: There is no ṁ in font Latin Modern Roman 10 Regular/OT:scrip
+t=latn;language=dflt;!
+Missing character: There is no ṁ in font Latin Modern Roman 10 Regular/OT:scrip
+t=latn;language=dflt;!
+Missing character: There is no ṁ in font Latin Modern Roman 10 Regular/OT:scrip
+t=latn;language=dflt;!
+Missing character: There is no ṁ in font Latin Modern Roman 10 Italic/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ṁ in font Latin Modern Roman 10 Italic/OT:script
+=latn;language=dflt;mapping=tex-text;!
+) [10
+
+]
+\openout2 = `chapters/chapter_05.aux'.
+
+ (chapters/chapter_05.tex
+Missing character: There is no ṁ in font Latin Modern Roman 10 Regular/OT:scrip
+t=latn;language=dflt;!
+Missing character: There is no ṁ in font Latin Modern Roman 10 Regular/OT:scrip
+t=latn;language=dflt;!
+Missing character: There is no ṁ in font Latin Modern Roman 10 Regular/OT:scrip
+t=latn;language=dflt;!
+Missing character: There is no ṁ in font Latin Modern Roman 10 Regular/OT:scrip
+t=latn;language=dflt;!
 [11
 
 
 
 
-]) [12
+]
+Missing character: There is no ṁ in font Latin Modern Roman 10 Regular/OT:scrip
+t=latn;language=dflt;!
+Missing character: There is no ṁ in font Latin Modern Roman 10 Regular/OT:scrip
+t=latn;language=dflt;!
+Missing character: There is no ṁ in font Latin Modern Roman 10 Regular/OT:scrip
+t=latn;language=dflt;!
+Missing character: There is no ṁ in font Latin Modern Roman 10 Italic/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ṁ in font Latin Modern Roman 10 Italic/OT:script
+=latn;language=dflt;mapping=tex-text;!
+) [12
 
 ]
-\openout2 = `chapters/namavali-001.aux'.
+\openout2 = `chapters/chapter_06.aux'.
 
- (chapters/namavali-001.tex [13
-
-
-
-
-]) [14
-
-]
-\openout2 = `chapters/namavali-002.aux'.
-
- (chapters/namavali-002.tex
-[15
-
-
-
-
-]) [16
-
-]
-\openout2 = `chapters/namavali-003.aux'.
-
- (chapters/namavali-003.tex [17
-
-
-
-
-]) [18
-
-]
-\openout2 = `chapters/namavali-004.aux'.
-
- (chapters/namavali-004.tex
-[19
+ (chapters/chapter_06.tex
+Missing character: There is no ṁ in font Latin Modern Roman 10 Regular/OT:scrip
+t=latn;language=dflt;!
+Missing character: There is no ṁ in font Latin Modern Roman 10 Regular/OT:scrip
+t=latn;language=dflt;!
+Missing character: There is no ṁ in font Latin Modern Roman 10 Regular/OT:scrip
+t=latn;language=dflt;!
+[13
 
 
 
 
 ]
-Missing character: There is no ​ in font Latin Modern Roman 10 Regular/OT:scrip
-t=latn;language=dflt;mapping=tex-text;!
-) [20
+Missing character: There is no ṁ in font Latin Modern Roman 10 Regular/OT:scrip
+t=latn;language=dflt;!
+Missing character: There is no ṁ in font Latin Modern Roman 10 Regular/OT:scrip
+t=latn;language=dflt;!
+Missing character: There is no ṁ in font Latin Modern Roman 10 Italic/OT:script
+=latn;language=dflt;mapping=tex-text;!
+) [14
 
 ]
-\openout2 = `chapters/namavali-005.aux'.
+\openout2 = `chapters/chapter_07.aux'.
 
- (chapters/namavali-005.tex [21
-
-
-
-
-]
-Missing character: There is no ​ in font Latin Modern Roman 10 Regular/OT:scrip
-t=latn;language=dflt;mapping=tex-text;!
-) [22
-
-]
-\openout2 = `chapters/namavali-006.aux'.
-
- (chapters/namavali-006.tex [23
+ (chapters/chapter_07.tex [15
 
 
 
 
-]
-Overfull \hbox (12.54573pt too wide) in paragraph at lines 43--43
-\TU/NirmalaUI(0)/m/n/10.95 वदन-स्मर-माङ्गल्य-गृह-तोरण-चिल्लिका \TU/LatinModernR
-oman(1)/m/n/10.95 vadana-smara-māṅgalya-gṛha-toraṇa-
- []
+]) [16]
+\openout2 = `chapters/chapter_08.aux'.
 
+ (chapters/chapter_08.tex
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 5.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 5.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 5.
+\openout3 = `main.ent'.
 
-Overfull \hbox (44.2136pt too wide) in paragraph at lines 43--43
-\TU/NirmalaUI(0)/m/n/10.95 वक्त्र-लक्ष्मी-परिवाह-चलन्-मीन-आभा-लोचना \TU/LatinMo
-dernRoman(1)/m/n/10.95 vaktra-lakṣmī-parīvāha-calan-mīnābhā-
- []
-
-)
-Overfull \hbox (0.56421pt too wide) in paragraph at lines 55--37
-[]\TU/LatinModernRoman(0)/m/n/10.95 Questo \TU/LatinModernRoman(0)/m/it/10.95 ś
-loka \TU/LatinModernRoman(0)/m/n/10.95 contiene due \TU/LatinModernRoman(0)/m/i
-t/10.95 nāma\TU/LatinModernRoman(0)/m/n/10.95 : \TU/LatinModernRoman(0)/b/it/10
-.95 Vadana-smara-māṅgalya-gṛha-
- []
-
-[24
-
-]
-\openout2 = `chapters/namavali-007.aux'.
-
- (chapters/namavali-007.tex [25
-
-
-
-
-]) [26
-
-]
-\openout2 = `chapters/namavali-008.aux'.
-
- (chapters/namavali-008.tex [27
-
-
-
-
-]
-Overfull \hbox (4.42404pt too wide) in paragraph at lines 40--40
- \TU/LatinModernRoman(0)/m/n/10.95 i cui due orecchini (\TU/LatinModernRoman(0)
-/m/it/10.95 tāṭaṅka-yugalī\TU/LatinModernRoman(0)/m/n/10.95 ) sono divenuti (\T
-U/LatinModernRoman(0)/m/it/10.95 bhūta\TU/LatinModernRoman(0)/m/n/10.95 ) i dis
-chi (\TU/LatinModernRoman(0)/m/it/10.95 maṇḍa-
- []
-
-) [28
-
-]
-\openout2 = `chapters/namavali-009.aux'.
-
- (chapters/namavali-009.tex [29
-
-
-
-
-]
-Overfull \hbox (2.10927pt too wide) in paragraph at lines 40--40
-\TU/NirmalaUI(0)/m/n/10.95 नव-विद्रुम-बिम्ब-श्री-न्यक्कारि-रदन-च्छदा \TU/LatinM
-odernRoman(1)/m/n/10.95 nava-vidruma-bimba-śrī-nyakkāri-
- []
-
-) [30
-
-]
-\openout2 = `chapters/namavali-010.aux'.
-
- (chapters/namavali-010.tex [31
-
-
-
-
-]
-Overfull \hbox (1.12613pt too wide) in paragraph at lines 42--42
-\TU/NirmalaUI(0)/m/n/10.95 शुद्ध-विद्या-अङ्कुर-आकार-द्विज-पङ्क्ति-द्वय-उज्ज्वला
- \TU/LatinModernRoman(1)/m/n/10.95 śuddha-vidyā-aṅkura-
- []
-
-)
-Overfull \hbox (5.40411pt too wide) in paragraph at lines 50--41
-[]\TU/LatinModernRoman(0)/m/n/10.95 Questo \TU/LatinModernRoman(0)/m/it/10.95 ś
-loka \TU/LatinModernRoman(0)/m/n/10.95 contiene due \TU/LatinModernRoman(0)/m/i
-t/10.95 nāma\TU/LatinModernRoman(0)/m/n/10.95 . \TU/LatinModernRoman(0)/b/it/10
-.95 Śuddha-vidyāṅkura-ākāra-dvija-
- []
-
-[32
-
-]
-\openout2 = `chapters/namavali-011.aux'.
-
- (chapters/namavali-011.tex [33
-
-
-
-
-]) [34
-
-]
-\openout2 = `chapters/namavali-012.aux'.
-
- (chapters/namavali-012.tex [35
+ [17
 
 
 
 
 ])
-[36
-
-]
-\openout2 = `chapters/namavali-013.aux'.
-
- (chapters/namavali-013.tex [37
+[18] (backmatter/epilogue.tex) [19
 
 
 
 
-]
-Overfull \hbox (4.23082pt too wide) in paragraph at lines 43--43
-\TU/NirmalaUI(0)/m/n/10.95 कनक-अङ्गद-केयूर-कमनीय-भुज-अन्विता \TU/LatinModernRom
-an(1)/m/n/10.95 kanaka-aṅgada-keyūra-kamanīya-
- []
-
-)
-Overfull \hbox (7.06853pt too wide) in paragraph at lines 53--44
-[]\TU/LatinModernRoman(0)/m/n/10.95 Questo \TU/LatinModernRoman(0)/m/it/10.95 ś
-loka \TU/LatinModernRoman(0)/m/n/10.95 contiene due \TU/LatinModernRoman(0)/m/i
-t/10.95 nāma\TU/LatinModernRoman(0)/m/n/10.95 . \TU/LatinModernRoman(0)/b/it/10
-.95 Kanakāṅgada-keyūra-kamanīya-
- []
-
-[38
-
-]
-\openout2 = `chapters/namavali-014.aux'.
-
- (chapters/namavali-014.tex [39
-
-
-
-
-])
-Overfull \hbox (0.70657pt too wide) in paragraph at lines 52--45
-[]\TU/LatinModernRoman(0)/m/n/10.95 Questo \TU/LatinModernRoman(0)/m/it/10.95 ś
-loka \TU/LatinModernRoman(0)/m/n/10.95 contiene due \TU/LatinModernRoman(0)/m/i
-t/10.95 nāma\TU/LatinModernRoman(0)/m/n/10.95 . \TU/LatinModernRoman(0)/b/it/10
-.95 Kāmeśvara-prema-ratna-maṇi-
- []
-
-[40
-
-]
-\openout2 = `chapters/namavali-015.aux'.
-
- (chapters/namavali-015.tex [41
-
-
-
-
-])
-Overfull \hbox (7.65425pt too wide) in paragraph at lines 51--46
-\TU/LatinModernRoman(0)/b/it/10.95 paṭṭa-bandha-valitrayā \TU/LatinModernRoman(
-0)/m/n/10.95 presenta la triplice piega del ventre come espres-
- []
-
-[42
-
-]
-\openout2 = `chapters/namavali-016.aux'.
-
- (chapters/namavali-016.tex [43
-
-
-
-
-]) [44
-
-]
-\openout2 = `chapters/namavali-017.aux'.
-
- (chapters/namavali-017.tex [45
-
-
-
-
-])
-Overfull \hbox (11.25142pt too wide) in paragraph at lines 52--48
-[]\TU/LatinModernRoman(0)/m/n/10.95 Questo \TU/LatinModernRoman(0)/m/it/10.95 ś
-loka \TU/LatinModernRoman(0)/m/n/10.95 contiene due \TU/LatinModernRoman(0)/m/i
-t/10.95 nāma\TU/LatinModernRoman(0)/m/n/10.95 . \TU/LatinModernRoman(0)/b/it/10
-.95 Kāmeśa-jñāta-saubhāgya-mārda-
- []
-
-[46
-
-]
-\openout2 = `chapters/namavali-018.aux'.
-
- (chapters/namavali-018.tex [47
-
-
-
-
-])
-Overfull \hbox (2.15727pt too wide) in paragraph at lines 51--49
-\TU/LatinModernRoman(0)/m/n/10.95 e colore vitale. \TU/LatinModernRoman(0)/b/it
-/10.95 Gūḍha-gulphā kūrma-pṛṣṭha-jayiṣṇu-prapadānvitā
- []
-
-[48
-
-] (main.aux (chapters/dhyanam_01.aux) (chapters/dhyanam_02.aux)
-(chapters/dhyanam_03.aux) (chapters/dhyanam_04.aux) (chapters/dhyanam_05.aux)
-(chapters/namavali-001.aux) (chapters/namavali-002.aux)
-(chapters/namavali-003.aux) (chapters/namavali-004.aux)
-(chapters/namavali-005.aux) (chapters/namavali-006.aux)
-(chapters/namavali-007.aux) (chapters/namavali-008.aux)
-(chapters/namavali-009.aux) (chapters/namavali-010.aux)
-(chapters/namavali-011.aux) (chapters/namavali-012.aux)
-(chapters/namavali-013.aux) (chapters/namavali-014.aux)
-(chapters/namavali-015.aux) (chapters/namavali-016.aux)
-(chapters/namavali-017.aux) (chapters/namavali-018.aux))
+] (main.aux (chapters/chapter_01.aux)
+(chapters/chapter_02.aux) (chapters/chapter_03.aux) (chapters/chapter_04.aux)
+(chapters/chapter_05.aux) (chapters/chapter_06.aux) (chapters/chapter_07.aux)
+(chapters/chapter_08.aux))
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
@@ -1438,12 +1298,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 19083 strings out of 402987
- 435480 string characters out of 5448732
- 885939 words of memory out of 5000000
- 47309 multiletter control sequences out of 15000+600000
- 628962 words of font info for 84 fonts, out of 8000000 for 9000
+ 18812 strings out of 402987
+ 424339 string characters out of 5448732
+ 883979 words of memory out of 5000000
+ 47126 multiletter control sequences out of 15000+600000
+ 631725 words of font info for 96 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 107i,6n,110p,1168b,286s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 107i,6n,110p,1258b,308s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.pdf (56 pages).
+Output written on main.pdf (27 pages).
