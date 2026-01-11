@@ -6,6 +6,6 @@
 \contentsline {chapter}{Devī Sūkta 10.125.4}{8}{}%
 \contentsline {chapter}{Devī Sūkta 10.125.5}{10}{}%
 \contentsline {chapter}{Devī Sūkta 10.125.6}{12}{}%
-\contentsline {chapter}{Il D\textit {evī Sūkta }e la dimensione tantrica}{15}{}%
+\contentsline {chapter}{Il \textit {Devī Sūkta }e la dimensione tantrica}{15}{}%
 \contentsline {chapter}{\textit {Vāk Āmbhṛṇī}: una voce femminile nel \textit {Ṛgveda}}{17}{}%
 \contentsline {chapter}{Epilogo}{19}{}%
